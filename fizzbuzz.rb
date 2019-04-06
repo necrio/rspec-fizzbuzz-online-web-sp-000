@@ -12,7 +12,6 @@
 
 
 def three(int)
-  if int % 3  == 0
-  Fizz
-  end
+  if int == % 3
+    puts ('fizz_3')
 end
