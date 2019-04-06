@@ -17,7 +17,3 @@ def three(int)
   int % 3  == 0
   Fizz
 end
-
-def five(int)
-  int % 5 == 0
-end
