@@ -9,11 +9,10 @@
 
 #  end
 #end
-def fizzbuzz(int)
-  int
-end
+
 
 def three(int)
-  int % 3  == 0
+  if int % 3  == 0
   Fizz
+  end
 end
