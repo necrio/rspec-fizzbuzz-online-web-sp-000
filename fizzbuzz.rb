@@ -16,3 +16,11 @@ end
 def three(int)
   int % 3 == 0
 end
+
+def five(int)
+  int % 5 == 0
+end 
+
+def fifthteen(int)
+  int % 15 == 0
+end 
