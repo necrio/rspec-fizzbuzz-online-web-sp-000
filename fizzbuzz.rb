@@ -8,7 +8,4 @@ def fizzbuzz(int)
   #elsif int % 15 == 0
 
   end
-  fizz(3)
-  fizz(5)
-  fizz()
 end
