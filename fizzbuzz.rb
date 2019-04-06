@@ -21,5 +21,3 @@ end
 def five(int)
   int % 5 == 0
 end
-
-
