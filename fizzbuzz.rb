@@ -6,7 +6,7 @@ def fizzbuzz(int)
     "fizz" #Go fizz
   else int % 5 == 0
   elsif int % 15 == 0
-    
+
   end
   fizz(3)
   fizz(5)
