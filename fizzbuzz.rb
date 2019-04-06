@@ -14,4 +14,5 @@
 def three(int)
   if int == % 3
     puts ('fizz')
+  end 
 end
