@@ -14,5 +14,5 @@ def fizzbuzz(int)
 end
 
 def three(int)
-  int % 3 == 0  
+  int % 3 == 0
 end
