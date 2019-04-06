@@ -12,7 +12,5 @@
 
 
 def three(int)
-  if int == % 3
-    puts ('fizz')
-  end
+int += "fizz" if int % 3 == 0
 end
