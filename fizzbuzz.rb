@@ -10,7 +10,7 @@
 #  end
 #end
 def fizzbuzz(int)
-  number
+  int
 end
 
 def three(int)
