@@ -11,7 +11,7 @@
 #end
 
 
-def three(int)
+def fizzbuzz(int)
 int += "fizz" if int % 3 == 0
 
 end
