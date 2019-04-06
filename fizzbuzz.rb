@@ -12,3 +12,7 @@
 def fizzbuzz(int)
   number
 end
+
+def three(int)
+  int % 3 == 0  
+end
