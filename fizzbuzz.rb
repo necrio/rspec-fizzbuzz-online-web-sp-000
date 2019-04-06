@@ -2,9 +2,12 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
 
-if int % 3 == 0 # if the number is divisible by 3
+  if int % 3 == 0 # if the number is divisible by 3
   "fizz" #Go fizz
 end
 
-
 end
+
+fizz(3)
+fizz(5)
+fizz()
